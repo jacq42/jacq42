@@ -5,13 +5,15 @@ I am a clean coder from 🇩🇪
 #### 🔭 I'm currently working on:
 
 * My java, kotlin, testing, ... skills
-* Private project: [media-manager](https://github.com/jacq42/media-manager)
 * Private project to control the garage door with a raspi
+* Private project: [media-manager](https://github.com/jacq42/media-manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacq42&repo=media-manager&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 💬 with me: 
 
-[<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/jaccquelinekrech
 [twitter]: https://mobile.twitter.com/jaekae42
@@ -24,6 +26,8 @@ I am a clean coder from 🇩🇪
 [![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0678d228-1aeb-408d-b55c-9fe4975d35c1&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
