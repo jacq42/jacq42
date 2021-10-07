@@ -1,5 +1,7 @@
 ### ✨ Hi there ✨
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
+
 I am a clean coder from 🇩🇪
 
 #### 🔭 I'm currently working on:
