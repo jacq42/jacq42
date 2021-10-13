@@ -27,7 +27,7 @@ I am a clean coder from 🇩🇪
 
 [![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@0678d228-1aeb-408d-b55c-9fe4975d35c1&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacq42&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
