@@ -12,6 +12,8 @@ I am a clean coder from 🇩🇪
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacq42&repo=media-manager&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/github/jacq42/media-manager.svg)](https://wakatime.com/badge/github/jacq42/media-manager)
+
 #### 💬 with me: 
 
 [<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
