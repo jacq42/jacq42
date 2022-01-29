@@ -16,11 +16,13 @@ I am a clean coder from 🇩🇪
 
 #### 💬 with me: 
 
-[<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jacq42 | Wakatime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/wakatime.svg" />][wakatime]
 
 [linkedin]: https://www.linkedin.com/in/jaccquelinekrech
 [twitter]: https://mobile.twitter.com/jaekae42
+[wakatime]: https://wakatime.com/@jacq42
 
 <br />
 
