@@ -6,7 +6,7 @@ I am a clean coder from 🇩🇪
 
 #### 🔭 I'm currently working on:
 
-* My java, kotlin, testing, ... skills
+* My java, kotlin, testing, cloud ... skills
 * Private project to control the garage door with a raspi
 * Private project: [media-manager](https://github.com/jacq42/media-manager)
 
