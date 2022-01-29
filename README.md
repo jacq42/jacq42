@@ -27,11 +27,11 @@ I am a clean coder from 🇩🇪
 <br />
 
 #### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacq42&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacq42&theme=nord&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jacq42's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacq42&theme=nord&v=2)](!https://github.com/anuraghazra/github-readme-stats)
+[![jacq42's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacq42&theme=nord&v=2)][wakatime]
 
 
 
