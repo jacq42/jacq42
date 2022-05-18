@@ -1,10 +1,10 @@
-### ✨ Hi there ✨
+### :sparkles: Hi there :sparkles:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
-I am a clean coder from 🇩🇪
+I am a clean coder from :de:
 
-#### 🔭 I'm currently working on:
+#### I'm currently working on: :construction_worker:
 
 * My java, kotlin, testing, cloud ... skills
 * Private project to control the garage door with a raspi
@@ -14,7 +14,7 @@ I am a clean coder from 🇩🇪
 
 [![wakatime](https://wakatime.com/badge/github/jacq42/media-manager.svg)](https://wakatime.com/badge/github/jacq42/media-manager)
 
-#### 💬 with me: 
+#### You can :speech_balloon: with me: 
 
 [<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/twitter.svg" />][twitter]
@@ -33,21 +33,3 @@ I am a clean coder from 🇩🇪
 
 [![jacq42's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacq42&theme=nord&v=2)][wakatime]
 
-
-
-
-
-<!--
-**jacq42/jacq42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
