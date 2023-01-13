@@ -4,11 +4,12 @@
 
 I am a clean coder from :de:
 
-#### I'm currently working on: :construction_worker:
+#### Projects with examples: :construction_worker:
 
-* My java, kotlin, testing, cloud ... skills
-* Private project to control the garage door with a raspi
-* Private project: [media-manager](https://github.com/jacq42/media-manager)
+* Mutation testing with [pitest](https://github.com/jacq42/pitest-example)
+* Github action [workflows](https://github.com/jacq42/playground)
+* Spring boot application with a REACT frontend: [todo-a-rest](https://github.com/jacq42/todo-a-rest)
+* OpenAPI documentation with [springdoc](https://github.com/jacq42/openapi-example)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jacq42&repo=media-manager&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
