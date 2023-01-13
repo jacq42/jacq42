@@ -11,7 +11,7 @@ I am a clean coder from :de:
 * Spring boot application with a REACT frontend: [todo-a-rest](https://github.com/jacq42/todo-a-rest)
 * OpenAPI documentation with [springdoc](https://github.com/jacq42/openapi-example)
 
-#### You can :speech_balloon: with me: 
+#### You can get in :speech_balloon: with me: 
 
 [<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/twitter.svg" />][twitter]
