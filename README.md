@@ -20,6 +20,8 @@ I am a clean coder from :de:
 [wakatime]: https://wakatime.com/@jacq42
 
 <br />
+<br />
+<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
