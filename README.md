@@ -1,7 +1,5 @@
 ### :sparkles: Hi there :sparkles:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
-
 I am a clean coder from :de:
 
 #### Projects with examples: :construction_worker:
@@ -22,6 +20,8 @@ I am a clean coder from :de:
 [wakatime]: https://wakatime.com/@jacq42
 
 <br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
 #### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacq42&theme=nord&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
