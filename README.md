@@ -23,7 +23,7 @@ I am a clean coder from :de:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
-#### :octocat: Stats:
+#### My :octocat: Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacq42&theme=transparent) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacq42&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jacq42&theme=transparent) 
@@ -32,7 +32,7 @@ I am a clean coder from :de:
 
 <br />
 
-##### Stats presented by [Wakatime](https://wakatime.com)
+#### Stats presented by [Wakatime](https://wakatime.com)
 
 [![jacq42's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacq42&theme=nord&v=2)][wakatime]
 
