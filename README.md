@@ -26,6 +26,12 @@ I am a clean coder from :de:
 #### Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacq42&theme=transparent) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacq42&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jacq42&theme=transparent) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jacq42&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jacq42&theme=transparent&utcOffset=8) 
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacq42&theme=nord&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
