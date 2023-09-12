@@ -23,7 +23,7 @@ I am a clean coder from :de:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
-#### Stats:
+#### :octocat: Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacq42&theme=transparent) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jacq42&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jacq42&theme=transparent) 
