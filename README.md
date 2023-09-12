@@ -36,5 +36,7 @@ I am a clean coder from :de:
 
 [![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://wakatime.com/share/@jacq42/22b39d4e-8123-4665-80ad-b1943f31f9a5.svg)
+
 [![jacq42's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@jacq42&theme=nord&v=2)][wakatime]
 
