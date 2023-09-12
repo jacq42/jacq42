@@ -12,11 +12,9 @@ I am a clean coder from :de:
 #### You can get in :speech_balloon: with me: 
 
 [<img align="left" alt="jacq42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jacq42 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jacq42 | Wakatime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.7.0/icons/wakatime.svg" />][wakatime]
 
 [linkedin]: https://www.linkedin.com/in/jaccquelinekrech
-[twitter]: https://mobile.twitter.com/jaekae42
 [wakatime]: https://wakatime.com/@jacq42
 
 <br />
@@ -26,6 +24,8 @@ I am a clean coder from :de:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Small+things+matter)](https://git.io/typing-svg)
 
 #### Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jacq42&theme=transparent) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacq42&theme=nord&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jacq42's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacq42&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
