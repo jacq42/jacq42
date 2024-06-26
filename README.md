@@ -2,7 +2,7 @@
 
 ### :sparkles: Hi there :sparkles:
 
-I am a clean coder from :de:
+I am a clean coder from Germany.
 
 #### Projects with examples: :construction_worker:
 
