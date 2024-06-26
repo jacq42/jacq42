@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=jacq42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### :sparkles: Hi there :sparkles:
 
 I am a clean coder from :de:
