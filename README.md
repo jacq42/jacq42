@@ -40,3 +40,5 @@ I am a clean coder from Germany.
 
 ![](https://wakatime.com/share/@jacq42/22b39d4e-8123-4665-80ad-b1943f31f9a5.svg)
 
+![Wakatime Stats](https://wakatime.com/share/@jacq42/613507e6-d42b-4209-aec5-c517175ac131.svg)
+
