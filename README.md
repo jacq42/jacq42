@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/0678d228-1aeb-408d-b55c-9fe4975d35c1.svg)](https://wakatime.com/@0678d228-1aeb-408d-b55c-9fe4975d35c1)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jacq42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :sparkles: Hi there :sparkles:
